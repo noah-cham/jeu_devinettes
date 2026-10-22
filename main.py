@@ -35,4 +35,3 @@ while True:
     if reponse.lower() != "o":
         print("Merci et au revoir...")
         break
-
